@@ -1,0 +1,5 @@
+print("Hello fantastic world !")
+print('Second doing THING')
+print("Check third commit")
+print("Add some new thing to main from new branch")
+print("Added 5th line")
